@@ -7,4 +7,4 @@ Added a new line to check the changes.
 <br>
 This line is added to learn about the how to change the name of the branch.a
 <br>
-This line is added in the new branch feature-1
+This line is added in the main branch
