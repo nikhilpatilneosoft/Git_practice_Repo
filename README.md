@@ -4,3 +4,5 @@ This repo is used for git practice.
 This is my first line in Git read me file.
 <br>
 Added a new line to check the changes.
+<br>
+This line is added to learn about the how to change the name of the branch.
