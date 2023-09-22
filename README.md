@@ -16,4 +16,5 @@ added this line for branch feature-2
 this line add so that I can create conflict between 2 branches - main
 <br>
 This line is for conflict feature-2
-
+<br>
+This line is for conflict main
